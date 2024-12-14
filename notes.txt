@@ -1,4 +1,0 @@
-HTML provides the basic page structure and elements.
-CSS styles the elements for a visually appealing calculator.
-JavaScript adds interactivity, using jQuery for easier DOM manipulation.
-The folder structure organizes code for better maintainability.
